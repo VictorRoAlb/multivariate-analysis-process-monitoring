@@ -1,0 +1,44 @@
+# Data and outputs
+data/
+raw_data/
+outputs/
+runs/
+checkpoints/
+models/
+artifacts/
+*.xlsx
+*.xls
+*.csv
+*.rds
+*.RData
+*.pdf
+*.docx
+*.pptx
+*.zip
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+token.json
+secrets.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
