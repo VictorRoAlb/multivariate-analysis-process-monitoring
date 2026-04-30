@@ -1,19 +1,60 @@
 # Multivariate Analysis and Process Monitoring
 
-This repository brings together two related course projects:
-one focused on exploratory multivariate analysis, and another focused on multivariate process monitoring.
+Curated public repository built from two distinct master's-course projects:
 
-## Topics covered
-- multivariate exploratory analysis
-- PCA / MCA
-- PLS-DA
-- multivariate process monitoring
-- diagnostic and monitoring plots
+1. `Exploratory Multivariate Analysis`
+2. `Multivariate Process Monitoring and PLS-DA`
 
-## Included here
-- selected notebooks without hardcoded local paths from `Analisis multivariante`;
-- safe rendered figures from `ANALISIS Y MONITORIZACION DE PROCESOS MULTIVARIANTES`;
-- documentation mapping the two source projects and identifying which notebooks still require cleaning.
+The two blocks are presented together because they belong to the same technical area, but they are kept structurally separate in this public version so that the portfolio does not blur introductory multivariate analysis with later monitoring and diagnostic modelling work.
+
+## Scope
+
+This repository is not a dump of the original coursework folders. It is a cleaned public export designed for GitHub:
+
+- no original spreadsheets or workbooks;
+- no Word, PDF or PowerPoint coursework submissions;
+- no path-bound local outputs;
+- no hidden local routes;
+- only representative notebooks, safe figures and documentation.
+
+## Project structure
+
+- `projects/exploratory-multivariate-analysis/`
+  Representative material from the folder `Analisis multivariante`, covering the broader multivariate-analysis block: PCA-oriented interpretation, factor/discriminant/cluster context and MCA coursework.
+- `projects/process-monitoring-and-plsda/`
+  Separate material from `ANALISIS Y MONITORIZACION DE PROCESOS MULTIVARIANTES`, focused on monitoring-oriented PCA views, correlation diagnostics and PLS-DA evaluation figures.
+- `docs/`
+  Repository-level notes, source mapping and manual-review decisions.
+
+## Why the split matters
+
+The first source folder is broader than MCA alone. It contains lecture and coursework material around:
+
+- principal component analysis;
+- factor analysis;
+- discriminant analysis;
+- cluster analysis;
+- multiple correspondence analysis.
+
+The second source folder is a different project block centered on:
+
+- multivariate process monitoring;
+- correlation structure inspection;
+- latent-variable diagnostics;
+- PLS-DA classification and validation.
+
+Keeping both blocks visibly separate is important for technical clarity and for an honest public portfolio narrative.
 
 ## Data availability
-Original spreadsheets, workbooks and intermediate outputs are not included.
+
+Original spreadsheets, derived workbooks and private local outputs are intentionally excluded from this repository. The public export keeps only portfolio-safe assets that document the structure and type of work performed.
+
+## Privacy and publication notes
+
+The source material is academic coursework rather than clinical data, but the repository still avoids publishing raw local workbooks and path-bound files. When a notebook depended on local spreadsheets or embedded absolute paths, it was documented but not copied blindly.
+
+See:
+
+- `docs/project_map.md`
+- `docs/manual_review.md`
+

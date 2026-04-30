@@ -1,34 +1,59 @@
 # Project Map
 
-This public repository intentionally combines two complementary academic blocks that were stored in different local folders.
+This public repository stages two different source projects under one multivariate theme, while keeping their contents separated.
 
-## Project 1 - Exploratory Multivariate Analysis
+## A. Exploratory Multivariate Analysis
+
 Source folder:
+
 - `MASTER/PRIMER CUATRI/Analisis multivariante`
 
-Focus:
-- MCA
-- PCA-style exploratory work
-- introductory multivariate interpretation
+Detected source scope:
 
-Public material staged:
-- `notebooks/MCA.ipynb`
-- `notebooks/Practica_1.ipynb`
+- lecture material and assignments on PCA;
+- factor-analysis and discriminant-analysis coursework;
+- cluster-analysis material;
+- MCA practice and report material;
+- public-style tabular datasets used for coursework exercises.
 
-## Project 2 - Multivariate Process Monitoring
+Public material included here:
+
+- `projects/exploratory-multivariate-analysis/notebooks/MCA.ipynb`
+- `projects/exploratory-multivariate-analysis/notebooks/Practica_1.ipynb`
+- `projects/exploratory-multivariate-analysis/README.md`
+
+Why the export is narrower than the raw folder:
+
+- the original folder contains many PDFs, DOCX, PPTX and spreadsheets;
+- several files are submission documents rather than reusable code assets;
+- the public repository keeps representative technical material instead of uploading the coursework archive wholesale.
+
+## B. Multivariate Process Monitoring and PLS-DA
+
 Source folder:
+
 - `MASTER/SEGUNDO_CUATRI/ANALISIS Y MONITORIZACION DE PROCESOS MULTIVARIANTES`
 
-Focus:
-- correlation structure inspection
-- PLS-DA diagnostics
-- multivariate process monitoring and classification-style summaries
+Detected source scope:
 
-Public material staged:
-- correlation plots
-- PLS-DA diagnostic figures
-- manual-review notes for path-bound notebooks that were not copied automatically
+- PCA-style process views and correlation plots;
+- latent-variable monitoring figures;
+- PLS-DA diagnostics;
+- cross-validation and permutation-test outputs;
+- class-oriented performance summaries.
 
-## Why this repo is split this way
-The second project was not stored beside the first one locally, but both belong to the same technical narrative for a public portfolio:
-multivariate modelling, monitoring and interpretation.
+Public material included here:
+
+- `projects/process-monitoring-and-plsda/figures/`
+- `projects/process-monitoring-and-plsda/README.md`
+
+Not copied directly:
+
+- `ALBERTO.ipynb`
+- `PLS-DA.ipynb`
+
+Reason:
+
+- they still reference local workbooks and derived local files;
+- the goal of the public export is to show the technical line of work without shipping the full raw project folder.
+
