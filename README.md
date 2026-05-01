@@ -3,7 +3,7 @@
 Curated public repository built from two distinct master's-course projects:
 
 1. `Exploratory Multivariate Analysis`
-2. `Multivariate Process Monitoring and PLS-DA`
+2. `Process Monitoring and PLS-DA`
 
 The two blocks are presented together because they belong to the same technical area, but they are kept structurally separate in this public version so that the portfolio does not blur introductory multivariate analysis with later monitoring and diagnostic modelling work.
 
@@ -22,7 +22,7 @@ This repository is not a dump of the original coursework folders. It is a cleane
 - `projects/exploratory-multivariate-analysis/`
   Representative material from the folder `Analisis multivariante`, covering the broader multivariate-analysis block: PCA-oriented interpretation, factor/discriminant/cluster context and MCA coursework.
 - `projects/process-monitoring-and-plsda/`
-  Separate material from `ANALISIS Y MONITORIZACION DE PROCESOS MULTIVARIANTES`, focused on monitoring-oriented PCA views, correlation diagnostics and PLS-DA evaluation figures.
+  Separate material from `ANALISIS Y MONITORIZACION DE PROCESOS MULTIVARIANTES`, focused on monitoring-oriented correlation diagnostics, latent-variable interpretation and PLS-DA evaluation.
 - `docs/`
   Repository-level notes, source mapping and manual-review decisions.
 
@@ -57,4 +57,3 @@ See:
 
 - `docs/project_map.md`
 - `docs/manual_review.md`
-

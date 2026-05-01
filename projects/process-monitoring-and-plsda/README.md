@@ -14,6 +14,7 @@ Separate public block built from the coursework folder `ANALISIS Y MONITORIZACIO
 ## Public material
 
 - `figures/`
+- `docs/plsda_summary.md`
 
 The figures in this folder are safe rendered outputs selected for portfolio use. They document the type of monitoring and diagnostic analysis carried out in the original project without exposing the raw workbooks that powered the notebooks.
 
@@ -24,3 +25,6 @@ The figures in this folder are safe rendered outputs selected for portfolio use.
 
 Those notebooks still contain local workbook dependencies and generated local file references, so they were documented but not published blindly.
 
+## Why this block is labelled PLS-DA
+
+The public narrative intentionally names this block around `PLS-DA` because that is the core discriminant component of the reviewed project material. The repository does not present it as generic multivariate analysis: it is a separate monitoring-and-diagnostics block with explicit class-oriented modelling.
