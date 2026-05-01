@@ -15,6 +15,8 @@ Separate public block built from the coursework folder `ANALISIS Y MONITORIZACIO
 
 - `figures/`
 - `docs/plsda_summary.md`
+- `notebooks/plsda_monitoring_summary.ipynb`
+- `src/build_plsda_summary_panel.py`
 
 The figures in this folder are safe rendered outputs selected for portfolio use. They document the type of monitoring and diagnostic analysis carried out in the original project without exposing the raw workbooks that powered the notebooks.
 
@@ -27,6 +29,8 @@ The figures in this folder are safe rendered outputs selected for portfolio use.
 - correlation-structure views used to frame the monitoring problem.
 
 ## Visual preview
+
+![PLS-DA summary panel](figures/plsda_summary_panel.png)
 
 ![PLS-DA confusion matrix](figures/11_matriz_confusion_normalizada.png)
 
