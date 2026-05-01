@@ -26,6 +26,13 @@ This repository is not a dump of the original coursework folders. It keeps the m
 - `docs/`
   Repository-level notes, source mapping and manual-review decisions.
 
+## Where to start
+
+1. `projects/process-monitoring-and-plsda/notebooks/plsda_monitoring_summary.ipynb`
+2. `projects/process-monitoring-and-plsda/docs/plsda_summary.md`
+3. `projects/exploratory-multivariate-analysis/notebooks/Practica_1.ipynb`
+4. `docs/project_map.md`
+
 ## Why the split matters
 
 The first source folder is broader than MCA alone. It contains lecture and coursework material around:
