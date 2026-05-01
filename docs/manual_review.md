@@ -22,12 +22,11 @@ The exported figure set comes from a different source folder:
 
 Not copied directly:
 
-- `ALBERTO.ipynb`
-- `PLS-DA.ipynb`
+- the original monitoring notebooks
 
 Reason:
 
-- both notebooks still reference local workbooks and generated local CSV/XLSX files;
+- the notebook versions still reference local workbooks and generated local CSV/XLSX files;
 - copying them as-is would weaken the public quality of the repository.
 
 Public decision:
@@ -35,4 +34,3 @@ Public decision:
 - keep the safe figures;
 - document the technical scope honestly;
 - leave the path-bound notebooks out of the public export until a dedicated cleanup pass is done.
-

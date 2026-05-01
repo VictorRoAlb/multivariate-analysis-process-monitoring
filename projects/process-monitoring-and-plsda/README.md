@@ -18,12 +18,25 @@ Separate public block built from the coursework folder `ANALISIS Y MONITORIZACIO
 
 The figures in this folder are safe rendered outputs selected for portfolio use. They document the type of monitoring and diagnostic analysis carried out in the original project without exposing the raw workbooks that powered the notebooks.
 
+## Figure highlights
+
+- cross-validation metrics across latent components;
+- normalized confusion-matrix view;
+- residual monitoring diagnostics;
+- VIP-based variable-importance analysis;
+- correlation-structure views used to frame the monitoring problem.
+
+## Visual preview
+
+![PLS-DA confusion matrix](figures/11_matriz_confusion_normalizada.png)
+
+![PLS-DA residual diagnostics](figures/10_diagnostico_residuos_T2_SCRX_SCRY.png)
+
+![PLS-DA VIP profile](figures/12_vip.png)
+
 ## Not included directly
 
-- `ALBERTO.ipynb`
-- `PLS-DA.ipynb`
-
-Those notebooks still contain local workbook dependencies and generated local file references, so they were documented but not published blindly.
+The original notebook versions that drove this block were not copied into the repository as runnable files because they still depend on local workbooks and generated local references. The public repository keeps the figures and technical summary instead of publishing a path-bound notebook bundle.
 
 ## Why this block is labelled PLS-DA
 

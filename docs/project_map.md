@@ -49,11 +49,9 @@ Public material included here:
 
 Not copied directly:
 
-- `ALBERTO.ipynb`
-- `PLS-DA.ipynb`
+- the original notebook versions for the monitoring block
 
 Reason:
 
 - they still reference local workbooks and derived local files;
 - the goal of the public export is to show the technical line of work without shipping the full raw project folder.
-

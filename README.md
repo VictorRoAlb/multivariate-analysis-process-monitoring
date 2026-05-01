@@ -43,6 +43,8 @@ The second source folder is a different project block centered on:
 - latent-variable diagnostics;
 - PLS-DA classification and validation.
 
+In the public repository, the second block is described explicitly as `PLS-DA monitoring and diagnostics` to avoid blending it with the more introductory exploratory material.
+
 Keeping both blocks visibly separate is important for technical clarity and for an honest public portfolio narrative.
 
 ## Data availability
