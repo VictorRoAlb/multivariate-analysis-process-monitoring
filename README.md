@@ -5,11 +5,11 @@ Curated public repository built from two distinct master's-course projects:
 1. `Exploratory Multivariate Analysis`
 2. `Process Monitoring and PLS-DA`
 
-The two blocks are presented together because they belong to the same technical area, but they are kept structurally separate in this public version so that the portfolio does not blur introductory multivariate analysis with later monitoring and diagnostic modelling work.
+The two blocks are presented together because they belong to the same technical area, but they are kept structurally separate so that the portfolio does not blur introductory multivariate analysis with later monitoring and diagnostic modelling work.
 
 ## Scope
 
-This repository is not a dump of the original coursework folders. It is a cleaned public export designed for GitHub:
+This repository is not a dump of the original coursework folders. It is a cleaned GitHub-ready version that keeps the most representative material:
 
 - no original spreadsheets or workbooks;
 - no Word, PDF or PowerPoint coursework submissions;
@@ -49,11 +49,11 @@ Keeping both blocks visibly separate is important for technical clarity and for 
 
 ## Data availability
 
-Original spreadsheets, derived workbooks and private local outputs are intentionally excluded from this repository. The public export keeps only portfolio-safe assets that document the structure and type of work performed.
+Original spreadsheets, derived workbooks and private local outputs are intentionally excluded from this repository. The public version keeps only portfolio-safe assets that document the structure and type of work performed.
 
 ## Privacy and publication notes
 
-The source material is academic coursework rather than clinical data, but the repository still avoids publishing raw local workbooks and path-bound files. When a notebook depended on local spreadsheets or embedded absolute paths, it was documented but not copied blindly.
+The project comes from academic coursework rather than clinical data, but the repository still avoids publishing raw local workbooks and path-bound files. When a notebook depended on local spreadsheets or embedded absolute paths, it was documented rather than copied blindly.
 
 See:
 

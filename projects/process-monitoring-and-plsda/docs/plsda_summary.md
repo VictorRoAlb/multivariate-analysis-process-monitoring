@@ -2,9 +2,9 @@
 
 This public note summarizes the process-monitoring and discriminant-analysis block without redistributing the original workbooks.
 
-## Reviewed source material
+## Project scope
 
-Audited folder:
+Local coursework folder:
 
 - `MASTER/SEGUNDO_CUATRI/ANALISIS Y MONITORIZACION DE PROCESOS MULTIVARIANTES`
 
@@ -19,7 +19,7 @@ Safe outputs used here:
 
 ## Model narrative retained in the public repo
 
-The reviewed material describes a `PLS-DA` workflow with:
+In our project, the `PLS-DA` workflow was built around:
 
 - latent-variable modelling;
 - cross-validation for component selection;
@@ -28,7 +28,7 @@ The reviewed material describes a `PLS-DA` workflow with:
 - variable-importance interpretation;
 - permutation-style validation.
 
-## Example metrics from the reviewed output
+## Example metrics from the final output
 
 The source summary text reports a three-class `Burnout_Risk` PLS-DA setting with:
 
