@@ -9,7 +9,7 @@ The two blocks are presented together because they belong to the same technical 
 
 ## Scope
 
-This repository is not a dump of the original coursework folders. It is a cleaned GitHub-ready version that keeps the most representative material:
+This repository is not a dump of the original coursework folders. It keeps the most representative material in a cleaner and more structured format:
 
 - no original spreadsheets or workbooks;
 - no Word, PDF or PowerPoint coursework submissions;
