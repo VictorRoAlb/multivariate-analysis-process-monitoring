@@ -1,0 +1,7 @@
+Random Forest vs PLS-DA delivery summary
+=======================================
+Random Forest accuracy: 0.9980
+Random Forest balanced accuracy: 0.9988
+PLS-DA accuracy: 0.9885
+PLS-DA balanced accuracy: 0.6633
+Selected latent components (PLS-DA): 3

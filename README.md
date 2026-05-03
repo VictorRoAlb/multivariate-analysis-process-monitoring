@@ -1,15 +1,15 @@
 # Multivariate Analysis and Process Monitoring
 
-Curated public repository built from two distinct master's-course projects:
+In this repository I bring together two distinct master's-course projects:
 
 1. `Exploratory Multivariate Analysis`
 2. `Process Monitoring and PLS-DA`
 
-The two blocks are presented together because they belong to the same technical area, but they are kept structurally separate so that the portfolio does not blur introductory multivariate analysis with later monitoring and diagnostic modelling work.
+I present both blocks together because they belong to the same technical area, but I keep them structurally separate so the portfolio does not blur introductory multivariate analysis with later monitoring and diagnostic modelling work.
 
 ## Scope
 
-This repository is not a dump of the original coursework folders. It keeps the most representative material in a cleaner and more structured format:
+I did not want this repository to become a dump of the original coursework folders, so I keep only the most representative material in a cleaner and more structured format:
 
 - no original spreadsheets or workbooks;
 - no Word, PDF or PowerPoint coursework submissions;
@@ -29,9 +29,10 @@ This repository is not a dump of the original coursework folders. It keeps the m
 ## Where to start
 
 1. `projects/process-monitoring-and-plsda/notebooks/plsda_monitoring_summary.ipynb`
-2. `projects/process-monitoring-and-plsda/docs/plsda_summary.md`
-3. `projects/exploratory-multivariate-analysis/notebooks/Practica_1.ipynb`
-4. `docs/project_map.md`
+2. `projects/process-monitoring-and-plsda/rf-vs-plsda-delivery/notebooks/rf_vs_plsda_delivery.ipynb`
+3. `projects/process-monitoring-and-plsda/docs/plsda_summary.md`
+4. `projects/exploratory-multivariate-analysis/notebooks/Practica_1.ipynb`
+5. `docs/project_map.md`
 
 ## Why the split matters
 
@@ -50,17 +51,17 @@ The second source folder is a different project block centered on:
 - latent-variable diagnostics;
 - PLS-DA classification and validation.
 
-In the public repository, the second block is described explicitly as `PLS-DA monitoring and diagnostics` to avoid blending it with the more introductory exploratory material.
+In the public repository, I describe the second block explicitly as `PLS-DA monitoring and diagnostics` to avoid blending it with the more introductory exploratory material.
 
-Keeping both blocks visibly separate is important for technical clarity and for an honest public portfolio narrative.
+Keeping both blocks visibly separate is important to me for technical clarity and for an honest public portfolio narrative.
 
 ## Data availability
 
-Original spreadsheets, derived workbooks and private local outputs are intentionally excluded from this repository. The public version keeps only portfolio-safe assets that document the structure and type of work performed.
+I intentionally exclude original spreadsheets, derived workbooks and private local outputs from this repository. Publicly, I keep only portfolio-safe assets that document the structure and type of work performed.
 
 ## Privacy and publication notes
 
-The project comes from academic coursework rather than clinical data, but the repository still avoids publishing raw local workbooks and path-bound files. When a notebook depended on local spreadsheets or embedded absolute paths, it was documented rather than copied blindly.
+This project comes from academic coursework rather than clinical data, but I still avoid publishing raw local workbooks and path-bound files. When a notebook depended on local spreadsheets or embedded absolute paths, I documented it instead of copying it blindly.
 
 See:
 
